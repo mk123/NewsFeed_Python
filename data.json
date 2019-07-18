@@ -1,0 +1,51 @@
+{
+	"news_data": [{
+		"category_name": "sports",
+		"news": [{
+				"image": "",
+				"headline": "headline1",
+				"content": "Content1 Content1 Content1 Content1 Content1 Content1 Content1 Content1 Content1"
+			},
+			{
+				"image": "",
+				"headline": "headline2",
+				"content": "Content2 Content2 Content2 Content2 Content2 Content2 Content2 Content2"
+			},
+			{
+				"image": "",
+				"headline": "ABC",
+				"content": "ABC Xyz"
+			},
+			{
+				"image": "",
+				"headline": "LMN",
+				"content": "LMX OPS"
+			}
+		]
+	},
+	{
+		"category_name": "entertainment",
+		"news": [{
+				"image": "",
+				"headline": "__headline__1",
+				"content": "__Content1 Content1 Content1 Content1 Content1 Content1 Content1 Content1 Content1"
+			},
+			{
+				"image": "",
+				"headline": "__headline2",
+				"content": "__Content2 Content2 Content2 Content2 Content2 Content2 Content2 Content2"
+			},
+			{
+				"image": "",
+				"headline": "__ABC",
+				"content": "__ABC Xyz"
+			},
+			{
+				"image": "",
+				"headline": "__LMN",
+				"content": "__LMX OPS"
+			}
+		]
+	}
+]
+}
